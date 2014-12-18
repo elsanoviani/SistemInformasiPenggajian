@@ -1,0 +1,90 @@
+C:\Users\user\AppData\Local\Temporary Projects\SIP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\SIP\obj\x86\Debug\SIP.User.resources
+C:\Users\user\AppData\Local\Temporary Projects\SIP\obj\x86\Debug\SIP.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\SIP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\SIP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\SIP\bin\Debug\SIP.exe
+C:\Users\user\AppData\Local\Temporary Projects\SIP\bin\Debug\SIP.pdb
+C:\Users\user\AppData\Local\Temporary Projects\SIP\bin\Debug\SIP.xml
+C:\Users\user\AppData\Local\Temporary Projects\SIP\obj\x86\Debug\SIP.MenuUtama.resources
+C:\Users\user\AppData\Local\Temporary Projects\SIP\obj\x86\Debug\SIP.exe
+C:\Users\user\AppData\Local\Temporary Projects\SIP\obj\x86\Debug\SIP.xml
+C:\Users\user\AppData\Local\Temporary Projects\SIP\obj\x86\Debug\SIP.pdb
+C:\Users\user\AppData\Local\Temporary Projects\SIP\obj\x86\Debug\SIP.Potongan.resources
+C:\Users\user\AppData\Local\Temporary Projects\SIP\obj\x86\Debug\SIP.Pegawai.resources
+C:\Users\user\AppData\Local\Temporary Projects\SIP\obj\x86\Debug\SIP.Jabatan.resources
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.exe
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.xml
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.pdb
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\bin\Debug\SIP.exe.config
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\bin\Debug\SIP.exe
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\bin\Debug\SIP.pdb
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\bin\Debug\SIP.xml
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.Jabatan.resources
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.ListPegawai.resources
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.MenuUtama.resources
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.Potongan.resources
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.User.resources
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.GantiPassword.resources
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.Golongan.resources
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.Login.resources
+C:\Users\user\documents\visual studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.Pegawai.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.Penggajian.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.Laporan.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\SIP\SIP\obj\x86\Debug\SIP.LPegawai.resources
+E:\Kania Dewi (IFB)\SIP\SIP\bin\Debug\SIP.exe.config
+E:\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.exe
+E:\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.xml
+E:\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.pdb
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\bin\Debug\SIP.exe.config
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.exe
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.xml
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.pdb
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\bin\Debug\SIP.exe
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\bin\Debug\SIP.pdb
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\bin\Debug\SIP.xml
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.GantiPassword.resources
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Golongan.resources
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Jabatan.resources
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Laporan.resources
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.ListPegawai.resources
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Login.resources
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.LPegawai.resources
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.MenuUtama.resources
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Pegawai.resources
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Penggajian.resources
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Potongan.resources
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.User.resources
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Resources.resources
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Form1.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\bin\Debug\SIP.exe.config
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.exe
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.xml
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.pdb
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\bin\Debug\SIP.exe
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\bin\Debug\SIP.pdb
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\bin\Debug\SIP.xml
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Form1.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.GantiPassword.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Golongan.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Jabatan.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Laporan.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.ListPegawai.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Login.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.LPegawai.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.MenuUtama.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Pegawai.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Penggajian.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Potongan.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.User.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\SIP.Resources.resources
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kuliah\Semester IV\Kania Dewi (IFB)\SIP\SIP\obj\x86\Debug\GenerateResource.write.1.tlog

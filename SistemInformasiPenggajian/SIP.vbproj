@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2ED71224-92DE-4011-B437-6D102CD84EC3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SIP.My.MyApplication</StartupObject>
+    <RootNamespace>SIP</RootNamespace>
+    <AssemblyName>SIP</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SIP.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SIP.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GantiPassword.Designer.vb">
+      <DependentUpon>GantiPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GantiPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Golongan.Designer.vb">
+      <DependentUpon>Golongan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Golongan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jabatan.Designer.vb">
+      <DependentUpon>Jabatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Jabatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Laporan Jabatan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Laporan Jabatan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Laporan.Designer.vb">
+      <DependentUpon>Laporan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Laporan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanPegawai.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LaporanPegawai.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanUser.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LaporanUser.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LapPenggajian.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LapPenggajian.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ListPegawai.Designer.vb">
+      <DependentUpon>ListPegawai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ListPegawai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListPotongan.Designer.vb">
+      <DependentUpon>ListPotongan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ListPotongan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LPegawai.Designer.vb">
+      <DependentUpon>LPegawai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LPegawai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Utama.Designer.vb">
+      <DependentUpon>Menu Utama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Utama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="Pegawai.Designer.vb">
+      <DependentUpon>Pegawai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pegawai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Penggajian.Designer.vb">
+      <DependentUpon>Penggajian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Penggajian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Potongan.Designer.vb">
+      <DependentUpon>Potongan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Potongan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User.Designer.vb">
+      <DependentUpon>User.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GantiPassword.resx">
+      <DependentUpon>GantiPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Golongan.resx">
+      <DependentUpon>Golongan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jabatan.resx">
+      <DependentUpon>Jabatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan Jabatan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Laporan Jabatan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan.resx">
+      <DependentUpon>Laporan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanPegawai.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>LaporanPegawai.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanUser.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>LaporanUser.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LapPenggajian.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>LapPenggajian.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListPegawai.resx">
+      <DependentUpon>ListPegawai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LPegawai.resx">
+      <DependentUpon>LPegawai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Utama.resx">
+      <DependentUpon>Menu Utama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pegawai.resx">
+      <DependentUpon>Pegawai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Penggajian.resx">
+      <DependentUpon>Penggajian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Potongan.resx">
+      <DependentUpon>Potongan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User.resx">
+      <DependentUpon>User.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\as.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ka.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Batal.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_delete_green - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_delete_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Close-icon - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cari.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cut.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hapus.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home - Copy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Batal_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Laporan_Obat_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Laporan_Penjualan_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Laporan_Supplier_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Laporan_User_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Laporan1_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Simpan_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Keluar_icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
